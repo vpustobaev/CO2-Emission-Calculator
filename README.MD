@@ -1,5 +1,3 @@
-
-
 ####CO2 Emission Calculator
 
 ###Task
